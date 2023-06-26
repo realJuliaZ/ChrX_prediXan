@@ -1,5 +1,5 @@
 # ChrX_prediXan
-Predict the expression of X chromosome genes with the elastic net regression model. Models can be used for TWAS with the [PrediXcan pipeline]([url](https://github.com/hakyimlab/PredictDB-Tutorial.git)).
+Predict the expression of X chromosome genes with the elastic net regression model. Models can be used for TWAS with the PrediXcan pipeline: https://github.com/hakyimlab/PredictDB-Tutorial. 
 
 ## Citation
 Zhang, X. et al. Predicting genetically regulated gene expression on the X chromosome. http://biorxiv.org/lookup/doi/10.1101/2023.06.06.543877 (2023) doi:10.1101/2023.06.06.543877.
